@@ -2,15 +2,13 @@
 
 <!--
 **awehro/awehro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
+# 💫 About Me:
 - 🔭 I’m currently working on Data Pipelines in Snowflake and MS Fabric
 - 🌱 I'm always striving to learn
 - 👯 I’m looking to collaborate on Data projects which combine Quantitative and Qualitative Data 
 - 📫 How to reach me: tractionwise.com or LinkedIn
 
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewehr) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/André-Wehr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andre_wehr) 
@@ -21,8 +19,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=awehro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awehro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awehro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=awehro&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
