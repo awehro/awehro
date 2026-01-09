@@ -4,7 +4,7 @@
 **awehro/awehro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me:
-- 🔭 I’m currently working on Data Pipelines in Snowflake and MS Fabric
+- 🔭 I’m currently focussing on Data Architecture Microsoft Fabric
 - 🌱 I'm always striving to learn
 - 👯 I’m looking to collaborate on Data projects which combine Quantitative and Qualitative Data 
 - 📫 How to reach me: tractionwise.com or LinkedIn
